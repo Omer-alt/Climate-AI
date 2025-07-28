@@ -1,0 +1,27 @@
+# Core scientific and data manipulation libraries
+numpy
+pandas
+scipy
+xarray
+netCDF4
+
+# Geospatial analysis libraries
+geopandas
+rioxarray
+Shapely
+Cartopy
+
+# Machine Learning, Deep Learning, and Optimization
+scikit-learn
+torch
+deap
+joblib
+
+# Climate-specific and statistical libraries
+climate_indices
+pymannkendall
+
+# Utilities and plotting
+dask
+PyWavelets
+matplotlib
