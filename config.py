@@ -10,8 +10,8 @@ import os
 # Note: Adjust these paths relative to where you run the main script.
 DATASET_DIR = os.path.join(os.path.dirname(__file__), '..', 'Dataset')
 OUTPUT_DIR = os.path.join(os.path.dirname(__file__), '..', 'models_output')
-CRU_RAW_PATH = os.path.join(DATASET_DIR, "CEEAC_cru4.08_pre_1921-2023.nc")
-GPCC_RAW_PATH = os.path.join(DATASET_DIR, "CEEAC_GPCC.v2022_precip_1921-2020.nc")
+CRU_RAW_PATH = os.path.join(DATASET_DIR, "CRUPATH")
+GPCC_RAW_PATH = os.path.join(DATASET_DIR, "GPCCPATH")
 WORLD_SHAPEFILE_URL = "https://naciscdn.org/naturalearth/50m/cultural/ne_50m_admin_0_countries.zip"
 
 # --- Geographic & Time Parameters ---
